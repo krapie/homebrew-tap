@@ -1,8 +1,8 @@
 class Mycelium < Formula
   desc "Context Lifecycle TUI for AI coding-agent sessions"
   homepage "https://github.com/krapie/mycelium"
-  url "https://registry.npmjs.org/@kevinprk/mycelium/-/mycelium-0.4.5.tgz"
-  sha256 "2f6d11d41e0d71240ff0b047e3a189e6bb8b5f1695d18d27afb7a2c8ec5af10e"
+  url "https://registry.npmjs.org/@kevinprk/mycelium/-/mycelium-0.5.2.tgz"
+  sha256 "c879160d31c9a4d41ce7b5db09376d30191ac8fe489920858202baf831da5f12"
   license "MIT"
 
   depends_on "node"
